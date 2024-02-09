@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     valentineImage.src = "images/excited-dog.gif";
 
     // Hide the Yes and No buttons
-    document.getElementById("message").innerText = "I LOVE YOU ❤️";
+    document.getElementById("message").innerText = "DEJO LOVES YOU ❤️";
     document.getElementById("yes").style.display = "none";
     document.getElementById("no").style.display = "none";
     showAlert();
